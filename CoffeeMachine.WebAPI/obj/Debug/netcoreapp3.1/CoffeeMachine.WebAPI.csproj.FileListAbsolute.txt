@@ -1,0 +1,57 @@
+C:\EktaPrajapati\CoffeeMachine\CoffeeMachine.WebAPI\obj\Debug\netcoreapp3.1\CoffeeMachine.WebAPI.csproj.AssemblyReference.cache
+C:\EktaPrajapati\CoffeeMachine\CoffeeMachine.WebAPI\obj\Debug\netcoreapp3.1\CoffeeMachine.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\EktaPrajapati\CoffeeMachine\CoffeeMachine.WebAPI\obj\Debug\netcoreapp3.1\CoffeeMachine.WebAPI.AssemblyInfoInputs.cache
+C:\EktaPrajapati\CoffeeMachine\CoffeeMachine.WebAPI\obj\Debug\netcoreapp3.1\CoffeeMachine.WebAPI.AssemblyInfo.cs
+C:\EktaPrajapati\CoffeeMachine\CoffeeMachine.WebAPI\obj\Debug\netcoreapp3.1\CoffeeMachine.WebAPI.csproj.CoreCompileInputs.cache
+C:\EktaPrajapati\CoffeeMachine\CoffeeMachine.WebAPI\obj\Debug\netcoreapp3.1\CoffeeMachine.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\EktaPrajapati\CoffeeMachine\CoffeeMachine.WebAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\EktaPrajapati\CoffeeMachine\CoffeeMachine.WebAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\EktaPrajapati\CoffeeMachine\CoffeeMachine.WebAPI\bin\Debug\netcoreapp3.1\CoffeeMachine.WebAPI.exe
+C:\EktaPrajapati\CoffeeMachine\CoffeeMachine.WebAPI\bin\Debug\netcoreapp3.1\CoffeeMachine.WebAPI.deps.json
+C:\EktaPrajapati\CoffeeMachine\CoffeeMachine.WebAPI\bin\Debug\netcoreapp3.1\CoffeeMachine.WebAPI.runtimeconfig.json
+C:\EktaPrajapati\CoffeeMachine\CoffeeMachine.WebAPI\bin\Debug\netcoreapp3.1\CoffeeMachine.WebAPI.runtimeconfig.dev.json
+C:\EktaPrajapati\CoffeeMachine\CoffeeMachine.WebAPI\bin\Debug\netcoreapp3.1\CoffeeMachine.WebAPI.dll
+C:\EktaPrajapati\CoffeeMachine\CoffeeMachine.WebAPI\bin\Debug\netcoreapp3.1\CoffeeMachine.WebAPI.pdb
+C:\EktaPrajapati\CoffeeMachine\CoffeeMachine.WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\CoffeeMachine.WebAPI.StaticWebAssets.Manifest.cache
+C:\EktaPrajapati\CoffeeMachine\CoffeeMachine.WebAPI\obj\Debug\netcoreapp3.1\CoffeeMachine.WebAPI.RazorTargetAssemblyInfo.cache
+C:\EktaPrajapati\CoffeeMachine\CoffeeMachine.WebAPI\obj\Debug\netcoreapp3.1\CoffeeMachine.WebAPI.dll
+C:\EktaPrajapati\CoffeeMachine\CoffeeMachine.WebAPI\obj\Debug\netcoreapp3.1\CoffeeMachine.WebAPI.pdb
+C:\EktaPrajapati\CoffeeMachine\CoffeeMachine.WebAPI\obj\Debug\netcoreapp3.1\CoffeeMachine.WebAPI.genruntimeconfig.cache
+C:\EktaPrajapati\CoffeeMachine\CoffeeMachine\CoffeeMachine.WebAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\EktaPrajapati\CoffeeMachine\CoffeeMachine\CoffeeMachine.WebAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\EktaPrajapati\CoffeeMachine\CoffeeMachine\CoffeeMachine.WebAPI\bin\Debug\netcoreapp3.1\CoffeeMachine.WebAPI.exe
+C:\EktaPrajapati\CoffeeMachine\CoffeeMachine\CoffeeMachine.WebAPI\bin\Debug\netcoreapp3.1\CoffeeMachine.WebAPI.deps.json
+C:\EktaPrajapati\CoffeeMachine\CoffeeMachine\CoffeeMachine.WebAPI\bin\Debug\netcoreapp3.1\CoffeeMachine.WebAPI.runtimeconfig.json
+C:\EktaPrajapati\CoffeeMachine\CoffeeMachine\CoffeeMachine.WebAPI\bin\Debug\netcoreapp3.1\CoffeeMachine.WebAPI.runtimeconfig.dev.json
+C:\EktaPrajapati\CoffeeMachine\CoffeeMachine\CoffeeMachine.WebAPI\bin\Debug\netcoreapp3.1\CoffeeMachine.WebAPI.dll
+C:\EktaPrajapati\CoffeeMachine\CoffeeMachine\CoffeeMachine.WebAPI\bin\Debug\netcoreapp3.1\CoffeeMachine.WebAPI.pdb
+C:\EktaPrajapati\CoffeeMachine\CoffeeMachine\CoffeeMachine.WebAPI\obj\Debug\netcoreapp3.1\CoffeeMachine.WebAPI.csproj.AssemblyReference.cache
+C:\EktaPrajapati\CoffeeMachine\CoffeeMachine\CoffeeMachine.WebAPI\obj\Debug\netcoreapp3.1\CoffeeMachine.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\EktaPrajapati\CoffeeMachine\CoffeeMachine\CoffeeMachine.WebAPI\obj\Debug\netcoreapp3.1\CoffeeMachine.WebAPI.AssemblyInfoInputs.cache
+C:\EktaPrajapati\CoffeeMachine\CoffeeMachine\CoffeeMachine.WebAPI\obj\Debug\netcoreapp3.1\CoffeeMachine.WebAPI.AssemblyInfo.cs
+C:\EktaPrajapati\CoffeeMachine\CoffeeMachine\CoffeeMachine.WebAPI\obj\Debug\netcoreapp3.1\CoffeeMachine.WebAPI.csproj.CoreCompileInputs.cache
+C:\EktaPrajapati\CoffeeMachine\CoffeeMachine\CoffeeMachine.WebAPI\obj\Debug\netcoreapp3.1\CoffeeMachine.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\EktaPrajapati\CoffeeMachine\CoffeeMachine\CoffeeMachine.WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\CoffeeMachine.WebAPI.StaticWebAssets.Manifest.cache
+C:\EktaPrajapati\CoffeeMachine\CoffeeMachine\CoffeeMachine.WebAPI\obj\Debug\netcoreapp3.1\CoffeeMachine.WebAPI.RazorTargetAssemblyInfo.cache
+C:\EktaPrajapati\CoffeeMachine\CoffeeMachine\CoffeeMachine.WebAPI\obj\Debug\netcoreapp3.1\CoffeeMachine.WebAPI.dll
+C:\EktaPrajapati\CoffeeMachine\CoffeeMachine\CoffeeMachine.WebAPI\obj\Debug\netcoreapp3.1\CoffeeMachine.WebAPI.pdb
+C:\EktaPrajapati\CoffeeMachine\CoffeeMachine\CoffeeMachine.WebAPI\obj\Debug\netcoreapp3.1\CoffeeMachine.WebAPI.genruntimeconfig.cache
+C:\Ekta Prajapati\Practice Files\ReadyTech\CoffeeMachine\CoffeeMachine\CoffeeMachine.WebAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Ekta Prajapati\Practice Files\ReadyTech\CoffeeMachine\CoffeeMachine\CoffeeMachine.WebAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Ekta Prajapati\Practice Files\ReadyTech\CoffeeMachine\CoffeeMachine\CoffeeMachine.WebAPI\bin\Debug\netcoreapp3.1\CoffeeMachine.WebAPI.exe
+C:\Ekta Prajapati\Practice Files\ReadyTech\CoffeeMachine\CoffeeMachine\CoffeeMachine.WebAPI\bin\Debug\netcoreapp3.1\CoffeeMachine.WebAPI.deps.json
+C:\Ekta Prajapati\Practice Files\ReadyTech\CoffeeMachine\CoffeeMachine\CoffeeMachine.WebAPI\bin\Debug\netcoreapp3.1\CoffeeMachine.WebAPI.runtimeconfig.json
+C:\Ekta Prajapati\Practice Files\ReadyTech\CoffeeMachine\CoffeeMachine\CoffeeMachine.WebAPI\bin\Debug\netcoreapp3.1\CoffeeMachine.WebAPI.runtimeconfig.dev.json
+C:\Ekta Prajapati\Practice Files\ReadyTech\CoffeeMachine\CoffeeMachine\CoffeeMachine.WebAPI\bin\Debug\netcoreapp3.1\CoffeeMachine.WebAPI.dll
+C:\Ekta Prajapati\Practice Files\ReadyTech\CoffeeMachine\CoffeeMachine\CoffeeMachine.WebAPI\bin\Debug\netcoreapp3.1\CoffeeMachine.WebAPI.pdb
+C:\Ekta Prajapati\Practice Files\ReadyTech\CoffeeMachine\CoffeeMachine\CoffeeMachine.WebAPI\obj\Debug\netcoreapp3.1\CoffeeMachine.WebAPI.csproj.AssemblyReference.cache
+C:\Ekta Prajapati\Practice Files\ReadyTech\CoffeeMachine\CoffeeMachine\CoffeeMachine.WebAPI\obj\Debug\netcoreapp3.1\CoffeeMachine.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ekta Prajapati\Practice Files\ReadyTech\CoffeeMachine\CoffeeMachine\CoffeeMachine.WebAPI\obj\Debug\netcoreapp3.1\CoffeeMachine.WebAPI.AssemblyInfoInputs.cache
+C:\Ekta Prajapati\Practice Files\ReadyTech\CoffeeMachine\CoffeeMachine\CoffeeMachine.WebAPI\obj\Debug\netcoreapp3.1\CoffeeMachine.WebAPI.AssemblyInfo.cs
+C:\Ekta Prajapati\Practice Files\ReadyTech\CoffeeMachine\CoffeeMachine\CoffeeMachine.WebAPI\obj\Debug\netcoreapp3.1\CoffeeMachine.WebAPI.csproj.CoreCompileInputs.cache
+C:\Ekta Prajapati\Practice Files\ReadyTech\CoffeeMachine\CoffeeMachine\CoffeeMachine.WebAPI\obj\Debug\netcoreapp3.1\CoffeeMachine.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Ekta Prajapati\Practice Files\ReadyTech\CoffeeMachine\CoffeeMachine\CoffeeMachine.WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\CoffeeMachine.WebAPI.StaticWebAssets.Manifest.cache
+C:\Ekta Prajapati\Practice Files\ReadyTech\CoffeeMachine\CoffeeMachine\CoffeeMachine.WebAPI\obj\Debug\netcoreapp3.1\CoffeeMachine.WebAPI.RazorTargetAssemblyInfo.cache
+C:\Ekta Prajapati\Practice Files\ReadyTech\CoffeeMachine\CoffeeMachine\CoffeeMachine.WebAPI\obj\Debug\netcoreapp3.1\CoffeeMachine.WebAPI.dll
+C:\Ekta Prajapati\Practice Files\ReadyTech\CoffeeMachine\CoffeeMachine\CoffeeMachine.WebAPI\obj\Debug\netcoreapp3.1\CoffeeMachine.WebAPI.pdb
+C:\Ekta Prajapati\Practice Files\ReadyTech\CoffeeMachine\CoffeeMachine\CoffeeMachine.WebAPI\obj\Debug\netcoreapp3.1\CoffeeMachine.WebAPI.genruntimeconfig.cache
